@@ -1,0 +1,34 @@
+{
+  "array": [
+    {
+      "name": "A horror movie sound maker",
+      "price": "299.00",
+      "description": "Surprise guests by making them think It is hiding just around the corner.",
+      "imagePath": "Images/img1.jpg"
+    },
+    {
+      "name": "An air-blaster",
+      "price": "24.99",
+      "description": "They say this loud and terrifying thing is for fun with family and friends, but it seems better suited to enemies and nemeses.",
+      "imagePath": "Images/img2.jpg"
+    },
+    {
+      "name": "Surf and turf",
+      "price": "179.90",
+      "description": "For most people, surf and turf is something you might order at an expensive restaurant. For those who prioritize convenience over all things, it's a completely normal addition to your Amazon cart.",
+      "imagePath": "Images/img3.jpg"
+    },
+    {
+      "name": "A Lincoln Memorial pillow",
+      "price": "29.93",
+      "description": "For some people, simply remembering your eighth grade trip to Washington D.C. isn't enough—and for those people, there's this pillow.",
+      "imagePath": "Images/img4.jpg"
+    },
+    {
+      "name": "A baby mop",
+      "price": "29.99",
+      "description": "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
+      "imagePath": "Images/img5.jpg"
+    }
+  ]
+}
